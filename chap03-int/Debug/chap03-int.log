@@ -1,0 +1,2 @@
+﻿  chap03-int.c
+C:\workspace\DoItSolution\chap03-int\chap03-int.c(26,35): error C4146: 단항 빼기 연산자가 부호 없는 형식에 적용되었습니다. 결과는 역시 unsigned입니다.
