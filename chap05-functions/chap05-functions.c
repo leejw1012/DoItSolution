@@ -22,5 +22,5 @@ void print() {
 }
 
 void printx(int x) {
-	printf("printx function%d!\n", x);
+	printf("printx function%d!\n", x);//asdf
 }
